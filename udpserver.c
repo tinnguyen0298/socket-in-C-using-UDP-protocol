@@ -9,7 +9,7 @@
 #include <time.h>
 
 #define BUF_SIZE 4096  // Maximum packet size
-#define SERVER_PORT 8080  // Server's port
+#define SERVER_PORT 2018// Server's port
 
 typedef struct {
     int packet_id;        // ID to track the packet sequence
